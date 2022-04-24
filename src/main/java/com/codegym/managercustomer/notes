@@ -1,0 +1,44 @@
+// Tao object ObservableObjectValue
+public ObservableObjectValue<UserAccount> userAccount;
+userAccount = new SimpleObjectProperty<>(user);
+
+// Tao list Objects
+public  static  ObservableList<UserAccount> listAccounts;
+ObservableList<UserAccount> list = FXCollections.observableArrayList(user1, user2,.., );
+ObservableList<UserAccount> ls = FXCollections.observableArrayList();
+
+// Neu can gan gia tri cho controller
+FXMLLoader loader = new FXMLLoader(CustomerManager.class.getResource("detailcustomer.fxml"));
+Parent root = loader.load();
+
+((DetailCustomerController) loader.getController()).setModel(model);
+
+Scene scene = new Scene(root);
+Stage stage = new Stage();
+
+stage.setTitle("Hello!");
+stage.setScene(scene);
+stage.show();
+
+// KO can gan gia tri cho controller
+FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("detailcustomer.fxml"));
+Scene scene = new Scene(fxmlLoader.load());
+
+// fxmlLoader.load() thuc thi se goi initialize cua controller
+public class ListCustomerController implements Initializable {
+@Override
+public void initialize(URL location, ResourceBundle resources) {
+    model = new Model();
+    idListView.setItems(model.getPersons());
+}
+
+///
+module-info.java
+module com.example.demofx {
+    requires javafx.controls;
+    requires javafx.fxml;
+
+
+    opens com.example.demofx to javafx.fxml;
+    exports com.example.demofx;
+}
