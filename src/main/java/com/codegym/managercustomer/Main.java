@@ -9,11 +9,19 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 import java.io.IOException;
+import java.util.logging.Level;
 
 public class Main extends Application {
     public static final String MAIN_CUSTOMERMANAGER = "CustomerManager";
     @Override
     public void start(Stage stage) throws IOException {
+
+        /*Log my_log = new Log("log.txt");
+        my_log.logger.setLevel(Level.ALL);
+
+        my_log.logger.info("Info message");
+        my_log.logger.warning("warning message");
+        my_log.logger.severe("Servere message");*/
 //        FXMLLoader fxmlLoader = new FXMLLoader(CustomerManager.class.getResource("listcustomer.fxml"));
 //        Scene scene = new Scene(fxmlLoader.load());
 //        stage.setTitle("Hello!");

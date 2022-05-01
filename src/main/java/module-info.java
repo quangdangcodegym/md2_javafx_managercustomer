@@ -1,6 +1,7 @@
 module com.codegym.managercustomer {
     requires javafx.controls;
     requires javafx.fxml;
+    requires java.logging;
 
 
     opens com.codegym.managercustomer to javafx.fxml;

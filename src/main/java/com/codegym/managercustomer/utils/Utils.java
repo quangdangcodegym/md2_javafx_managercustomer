@@ -1,19 +1,27 @@
 package com.codegym.managercustomer.utils;
 
+import com.codegym.managercustomer.logger.Log;
 import com.codegym.managercustomer.model.UserAccount;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
+
+import java.io.IOException;
+import java.util.logging.Level;
 
 public class Utils {
 
     public  static  ObservableList<UserAccount> listAccounts;
 
-    public static void init(){
+    public static void init() throws IOException {
+        my_log = new Log("log.txt");
+        my_log.logger.setLevel(Level.ALL);
         listAccounts = getUserList();
     }
     public static Long getIDPresent() {
         return Long.valueOf(listAccounts.size());
     }
+
+    public static Log my_log ;
 
     public static boolean editUserById(Long id, UserAccount user) {
         for (int i = 0; i < listAccounts.size(); i++) {

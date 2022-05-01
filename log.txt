@@ -1,0 +1,84 @@
+Apr 26, 2022 2:44:41 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: atiogl.xml
+Apr 26, 2022 2:44:41 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: ativpsrm.bin
+Apr 26, 2022 2:44:42 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: bfsvc.exe
+Apr 26, 2022 2:44:42 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: bootstat.dat
+Apr 26, 2022 2:44:43 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: CROCCLIP.INI
+Apr 26, 2022 2:44:43 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: DPINST.LOG
+Apr 26, 2022 2:44:44 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: drvr391
+Apr 26, 2022 2:44:44 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: DtcInstall.log
+Apr 26, 2022 2:44:45 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: explorer.exe
+Apr 26, 2022 2:44:45 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: fveupdate.exe
+Apr 26, 2022 2:44:46 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: HelpPane.exe
+Apr 26, 2022 2:44:46 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: hh.exe
+Apr 26, 2022 2:44:47 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: kds503
+Apr 26, 2022 2:44:47 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: KMSEmulator.exe
+Apr 26, 2022 2:44:48 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: MEMORY.DMP
+Apr 26, 2022 2:44:48 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: mib.bin
+Apr 26, 2022 2:44:49 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: msdfmap.ini
+Apr 26, 2022 2:44:49 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: notepad.exe
+Apr 26, 2022 2:44:50 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: PFRO.log
+Apr 26, 2022 2:44:50 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: regedit.exe
+Apr 26, 2022 2:44:51 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: RtlExUpd.dll
+Apr 26, 2022 2:44:51 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: setupact.log
+Apr 26, 2022 2:44:52 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: setuperr.log
+Apr 26, 2022 2:44:52 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: splwow64.exe
+Apr 26, 2022 2:44:53 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: Starter.xml
+Apr 26, 2022 2:44:53 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: stmp1552
+Apr 26, 2022 2:44:54 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: sys1002
+Apr 26, 2022 2:44:54 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: system.ini
+Apr 26, 2022 2:44:55 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: TSSysprep.log
+Apr 26, 2022 2:44:55 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: twain.dll
+Apr 26, 2022 2:44:56 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: twain_32.dll
+Apr 26, 2022 2:44:56 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: twunk_16.exe
+Apr 26, 2022 2:44:57 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: twunk_32.exe
+Apr 26, 2022 2:44:57 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: Ultimate.xml
+Apr 26, 2022 2:44:58 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: UV_LastPW.ini
+Apr 26, 2022 2:44:58 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: win.ini
+Apr 26, 2022 2:44:59 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: WindowsShell.Manifest
+Apr 26, 2022 2:44:59 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: WindowsUpdate.log
+Apr 26, 2022 2:45:00 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: winhlp32.exe
+Apr 26, 2022 2:45:00 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: WMSysPr9.prx
+Apr 26, 2022 2:45:01 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: wnissy53
+Apr 26, 2022 2:45:01 PM com.codegym.managercustomer.ProgressAndTaskDemo$1 lambda$handle$0
+WARNING: Size: write.exe
